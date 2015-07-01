@@ -77,11 +77,8 @@
 		F1F62ABE1B43E411000A5022 /* AmazingSequence */ = {
 			isa = PBXGroup;
 			children = (
-				F1F62AC11B43E411000A5022 /* AppDelegate.swift */,
 				F1F62AC31B43E411000A5022 /* ViewController.swift */,
 				F1F62AC51B43E411000A5022 /* Main.storyboard */,
-				F1F62AC81B43E411000A5022 /* Images.xcassets */,
-				F1F62ACA1B43E412000A5022 /* LaunchScreen.xib */,
 				F1F62ABF1B43E411000A5022 /* Supporting Files */,
 			);
 			path = AmazingSequence;
@@ -90,6 +87,9 @@
 		F1F62ABF1B43E411000A5022 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				F1F62AC11B43E411000A5022 /* AppDelegate.swift */,
+				F1F62AC81B43E411000A5022 /* Images.xcassets */,
+				F1F62ACA1B43E412000A5022 /* LaunchScreen.xib */,
 				F1F62AC01B43E411000A5022 /* Info.plist */,
 			);
 			name = "Supporting Files";
